@@ -1,3 +1,5 @@
+# This is a modified version thatt add IT8785 chip support. I don't found any IT8785 chip datasheet and I try the driver with a Sharevdi F17h-5th industrial pc boart with sucess.
+
 # moxa-it87-gpio-driver
 
 https://github.com/torvalds/linux/blob/v5.2/drivers/gpio/gpio-it87.c
