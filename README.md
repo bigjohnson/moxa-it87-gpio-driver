@@ -1,4 +1,5 @@
-# This is a modified version thatt add IT8785 chip support. I don't found any IT8785 chip datasheet and I try the driver with a Sharevdi F17h-5th industrial pc boart with sucess.
+# This is a modified version that add IT8785 chip support. 
+## I don't found any IT8785 chip datasheet and I try the driver with a Sharevdi F17h-5th industrial pc board with success.
 
 # moxa-it87-gpio-driver
 
